@@ -40,7 +40,7 @@
 :arrow_up:[к оглавлению](https://github.com/Sofa0sonya/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
-### Результаты:  
+### Результат:  
 ....
 
 :arrow_up:[к оглавлению](https://github.com/Sofa0sonya/sf_data_science/tree/main/project_0/README.md#Оглавление)
